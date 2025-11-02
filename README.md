@@ -11,7 +11,6 @@ STIMim is a **missing-value imputation** technique for multivariate time series 
 - [Dataset Preparation](#dataset-preparation)
 - [Training](#training)
 - [Evaluation](#evaluation)
-- [Reproducing Paper Results](#reproducing-paper-results)
 
 
 ## Overview
