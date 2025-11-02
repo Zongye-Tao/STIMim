@@ -12,9 +12,7 @@ STIMim is a **missing-value imputation** technique for multivariate time series 
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Reproducing Paper Results](#reproducing-paper-results)
-- [Results](#results)
-- [License](#license)
-- [Citation](#citation)
+
 
 ## Overview
 STIMim combines **Missing-Structure Learning (MSL)**, a **Probabilistic Mask Constructor (PMC)**, and an **iTransformer** backbone (with Mamba) to align training masks with real test-time missingness and to jointly capture variable interactions and long-range temporal patterns.
